@@ -4,13 +4,13 @@
   <a href="https://github.com/Sridaya">
     <img src="https://komarev.com/ghpvc/?username=Sridaya&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://www.linkedin.com/in/dayasri-kannan">
+  <a href="https://www.linkedin.com/in/dayasrikannan">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:dayasri90@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-dayasri90@gmail.com-bf91f3?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://medium.com/@dayasri">
+  <a href="https://medium.com/@dayasri90">
     <img src="https://img.shields.io/badge/Medium-Dayasri%20K-38bdae?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
@@ -35,7 +35,7 @@ class Dayasri:
     college      = "P.T.Lee CNCET | CGPA: 8.65"
     
     stack        = ["HTML", "CSS", "JavaScript",
-                    "React JS", "Node JS", "Python",
+                    "React JS", "Node JS", 
                     "FastAPI", "Streamlit", "Java"]
     
     databases    = ["SQL", "SQLite"]
@@ -84,39 +84,32 @@ class Dayasri:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Skills at a Glance
 
 <div align="center">
-  <a href="https://github.com/Sridaya">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sridaya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/Sridaya">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Intermediate-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Intermediate-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Basics-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 </div>
 
 ---
 
-## 🔥 Streak Stats
+## 📈 Coding Profiles
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sridaya&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
 
----
+[![HackerRank](https://img.shields.io/badge/HackerRank-dayasri90-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dayasri90)
+[![CodeChef](https://img.shields.io/badge/CodeChef-dayasri__k-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dayasri_k)
+[![W3Schools](https://img.shields.io/badge/W3Schools-Pathfinder-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)](https://www.w3schools.com)
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sridaya&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sridaya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -155,9 +148,9 @@ class Dayasri:
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| [🐦 Twitter Bot Detection Tool](https://github.com/Sridaya) | Python · FastAPI · Streamlit · Scikit-Learn · Tweepy · Render | Real-time ML bot detection with Twitter API integration; live predictions via Streamlit GUI; deployed on Render |
-| [🏨 Hotel Booking Application](https://github.com/Sridaya) | HTML · CSS · JavaScript | Dynamic price calculation based on room type & stay duration; fully responsive UI |
-| [🌐 Portfolio Website](https://github.com/Sridaya) | HTML · CSS · JavaScript | Clean responsive portfolio with smooth navigation, structured sections, and live deployment |
+| [🐦 Twitter Bot Detection Tool](https://github.com/Sridaya/bot-detection) | Python · FastAPI · Streamlit · Scikit-Learn · Tweepy · Render | Real-time ML bot detection with Twitter API integration; live predictions via Streamlit GUI; deployed on Render |
+| [🏨 Hotel Booking Application](https://sridaya.github.io/HotelApp) | HTML · CSS · JavaScript | Dynamic price calculation based on room type & stay duration; fully responsive UI |
+| [🌐 Portfolio Website](https://dayasrikportfolio.vercel.app) | HTML · CSS · JavaScript | Clean responsive portfolio with smooth navigation, structured sections, and live deployment |
 
 </div>
 
@@ -209,11 +202,11 @@ class Dayasri:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dayasri%20Kannan-70a5fd?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayasri-kannan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dayasri%20Kannan-70a5fd?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayasrikannan)
 [![GitHub](https://img.shields.io/badge/GitHub-Sridaya-bf91f3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sridaya)
-[![Medium](https://img.shields.io/badge/Medium-Dayasri%20K-38bdae?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dayasri)
-[![HackerRank](https://img.shields.io/badge/HackerRank-dayasri90-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dayasri90)
-[![CodeChef](https://img.shields.io/badge/CodeChef-plague__chicken-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/plague_chicken)
+[![Medium](https://img.shields.io/badge/Medium-Dayasri%20K-38bdae?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dayasri90)
+[![HackerRank](https://img.shields.io/badge/HackerRank-dayasri90-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dayasri90)
+[![CodeChef](https://img.shields.io/badge/CodeChef-dayasri__k-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dayasri_k)
 
 </div>
 
