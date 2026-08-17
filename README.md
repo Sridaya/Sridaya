@@ -108,7 +108,7 @@ class Dayasri:
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-dayasri90-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dayasri90)
 [![CodeChef](https://img.shields.io/badge/CodeChef-dayasri__k-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dayasri_k)
-[![W3Schools](https://img.shields.io/badge/W3Schools-Pathfinder-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)](https://www.w3schools.com)
+[![W3Schools](https://img.shields.io/badge/W3Schools-Pathfinder-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)]([https://www.w3schools.com](https://www.w3profile.com/Dayasri/))
 
 </div>
 
