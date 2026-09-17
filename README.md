@@ -13,6 +13,13 @@
   <a href="https://medium.com/@dayasri90">
     <img src="https://img.shields.io/badge/Medium-Dayasri%20K-38bdae?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
   </a>
+
+  <a href="https://my-web-12v4.vercel.app">
+    <img
+    src="https://img.shields.io/badge/Dayasri's%20Space-%3E__-38bdae?style=flat-square"
+    alt="my-web"
+  />
+  </a>
 </div>
 
 ---
